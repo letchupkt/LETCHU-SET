@@ -1,5 +1,5 @@
 <h1 align="center">
-  G4MKR5X53T
+  L3TCHUS3T
 </h1>
 
 <h4 align="center">A Tool With Attractive Capabilities. </h4>
@@ -61,7 +61,7 @@
 
 ### Dependencies
 
-**`GAMKERSET`** requires following programs to run properly -
+**`LETCHUSET`** requires following programs to run properly -
 
 - `php`
 - `python3`
