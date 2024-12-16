@@ -1,0 +1,260 @@
+[Mon Dec 16 04:01:37 2024] PHP 8.2.24 Development Server (http://localhost:2525) started
+[Mon Dec 16 04:01:49 2024] 127.0.0.1:36956 Accepted
+[Mon Dec 16 04:01:49 2024] 127.0.0.1:36956 [302]: GET /
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36956 Closing
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36964 Accepted
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36964 [200]: GET /login.php
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36964 Closing
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36970 Accepted
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36970 [200]: GET /assets/css/bootstrap.min.css
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36970 Closing
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36980 Accepted
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36980 [404]: GET /favicon.ico - No such file or directory
+[Mon Dec 16 04:01:50 2024] 127.0.0.1:36980 Closing
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38572 Accepted
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38580 Accepted
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38572 [200]: POST /login.php
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38572 Closing
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38580 [200]: GET /assets/css/bootstrap.min.css
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38580 Closing
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38592 Accepted
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38592 [200]: GET /panel.php
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38592 Closing
+[Mon Dec 16 04:01:59 2024] 127.0.0.1:38598 Accepted
+[Mon Dec 16 04:02:00 2024] 127.0.0.1:38598 [200]: POST /list_templates.php
+[Mon Dec 16 04:02:00 2024] 127.0.0.1:38598 Closing
+[Mon Dec 16 04:02:02 2024] 127.0.0.1:38600 Accepted
+[Mon Dec 16 04:02:02 2024] 127.0.0.1:38600 [200]: POST /receiver.php
+[Mon Dec 16 04:02:02 2024] 127.0.0.1:38600 Closing
+[Mon Dec 16 04:02:02 2024] 127.0.0.1:38602 Accepted
+[Mon Dec 16 04:02:04 2024] 127.0.0.1:38602 [200]: POST /receiver.php
+[Mon Dec 16 04:02:04 2024] 127.0.0.1:38602 Closing
+[Mon Dec 16 04:02:06 2024] 127.0.0.1:38612 Accepted
+[Mon Dec 16 04:02:06 2024] 127.0.0.1:38612 [200]: POST /receiver.php
+[Mon Dec 16 04:02:06 2024] 127.0.0.1:38612 Closing
+[Mon Dec 16 04:02:06 2024] 127.0.0.1:38628 Accepted
+[Mon Dec 16 04:02:08 2024] 127.0.0.1:38628 [200]: POST /receiver.php
+[Mon Dec 16 04:02:08 2024] 127.0.0.1:38628 Closing
+[Mon Dec 16 04:02:10 2024] 127.0.0.1:49876 Accepted
+[Mon Dec 16 04:02:10 2024] 127.0.0.1:49876 [200]: POST /receiver.php
+[Mon Dec 16 04:02:10 2024] 127.0.0.1:49876 Closing
+[Mon Dec 16 04:02:10 2024] 127.0.0.1:49886 Accepted
+[Mon Dec 16 04:02:12 2024] 127.0.0.1:49886 [200]: POST /receiver.php
+[Mon Dec 16 04:02:12 2024] 127.0.0.1:49886 Closing
+[Mon Dec 16 04:02:14 2024] 127.0.0.1:49890 Accepted
+[Mon Dec 16 04:02:14 2024] 127.0.0.1:49890 [200]: POST /receiver.php
+[Mon Dec 16 04:02:14 2024] 127.0.0.1:49890 Closing
+[Mon Dec 16 04:02:14 2024] 127.0.0.1:49892 Accepted
+[Mon Dec 16 04:02:16 2024] 127.0.0.1:49892 [200]: POST /receiver.php
+[Mon Dec 16 04:02:16 2024] 127.0.0.1:49892 Closing
+[Mon Dec 16 04:02:18 2024] 127.0.0.1:34650 Accepted
+[Mon Dec 16 04:02:18 2024] 127.0.0.1:34650 [200]: POST /receiver.php
+[Mon Dec 16 04:02:18 2024] 127.0.0.1:34650 Closing
+[Mon Dec 16 04:02:18 2024] 127.0.0.1:34654 Accepted
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34654 [200]: POST /receiver.php
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34654 Closing
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34662 Accepted
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34662 [200]: GET /camera_temp.png
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34662 Closing
+[Mon Dec 16 04:02:20 2024] 127.0.0.1:34678 Accepted
+[Mon Dec 16 04:02:22 2024] 127.0.0.1:34678 [200]: POST /receiver.php
+[Mon Dec 16 04:02:22 2024] 127.0.0.1:34678 Closing
+[Mon Dec 16 04:02:24 2024] 127.0.0.1:34692 Accepted
+[Mon Dec 16 04:02:24 2024] 127.0.0.1:34692 [200]: POST /receiver.php
+[Mon Dec 16 04:02:24 2024] 127.0.0.1:34692 Closing
+[Mon Dec 16 04:02:24 2024] 127.0.0.1:34704 Accepted
+[Mon Dec 16 04:02:26 2024] 127.0.0.1:34704 [200]: POST /receiver.php
+[Mon Dec 16 04:02:26 2024] 127.0.0.1:34704 Closing
+[Mon Dec 16 04:02:28 2024] 127.0.0.1:36876 Accepted
+[Mon Dec 16 04:02:28 2024] 127.0.0.1:36876 [200]: POST /receiver.php
+[Mon Dec 16 04:02:28 2024] 127.0.0.1:36876 Closing
+[Mon Dec 16 04:02:28 2024] 127.0.0.1:36884 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36884 [200]: GET /templates/camera_temp/index.html
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36884 Closing
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36892 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36892 [200]: GET /templates/camera_temp/style.css
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36892 Closing
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36900 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36900 [200]: GET /templates/camera_temp/all.css
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36912 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36918 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36912 [200]: GET /assets/js/jquery.min.js
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36930 Accepted
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36900 Closing
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36918 [200]: GET /assets/js/client.min.js
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36930 [200]: GET /assets/js/loc.js
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36912 Closing
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36918 Closing
+[Mon Dec 16 04:02:29 2024] 127.0.0.1:36930 Closing
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36934 Accepted
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36934 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36934 Closing
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36942 Accepted
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36942 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36942 Closing
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36948 Accepted
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36948 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36948 Closing
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36958 Accepted
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36958 [200]: POST /receiver.php
+[Mon Dec 16 04:02:30 2024] 127.0.0.1:36958 Closing
+[Mon Dec 16 04:02:31 2024] 127.0.0.1:36974 Accepted
+[Mon Dec 16 04:02:31 2024] 127.0.0.1:36974 [404]: GET /favicon.ico - No such file or directory
+[Mon Dec 16 04:02:31 2024] 127.0.0.1:36974 Closing
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36986 Accepted
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36986 [200]: POST /templates/camera_temp/handler.php
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36986 Closing
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36998 Accepted
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36998 [200]: POST /receiver.php
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:36998 Closing
+[Mon Dec 16 04:02:32 2024] 127.0.0.1:37006 Accepted
+[Mon Dec 16 04:02:34 2024] 127.0.0.1:37006 [200]: POST /receiver.php
+[Mon Dec 16 04:02:34 2024] 127.0.0.1:37006 Closing
+[Mon Dec 16 04:02:36 2024] 127.0.0.1:37018 Accepted
+[Mon Dec 16 04:02:36 2024] 127.0.0.1:37018 [200]: POST /receiver.php
+[Mon Dec 16 04:02:36 2024] 127.0.0.1:37018 Closing
+[Mon Dec 16 04:02:36 2024] 127.0.0.1:37026 Accepted
+[Mon Dec 16 04:02:38 2024] 127.0.0.1:37026 [200]: POST /receiver.php
+[Mon Dec 16 04:02:38 2024] 127.0.0.1:37026 Closing
+[Mon Dec 16 04:02:40 2024] 127.0.0.1:42856 Accepted
+[Mon Dec 16 04:02:40 2024] 127.0.0.1:42856 [200]: POST /receiver.php
+[Mon Dec 16 04:02:40 2024] 127.0.0.1:42856 Closing
+[Mon Dec 16 04:02:40 2024] 127.0.0.1:42866 Accepted
+[Mon Dec 16 04:02:42 2024] 127.0.0.1:42866 [200]: POST /receiver.php
+[Mon Dec 16 04:02:42 2024] 127.0.0.1:42866 Closing
+[Mon Dec 16 04:02:43 2024] 127.0.0.1:42876 Accepted
+[Mon Dec 16 04:02:43 2024] 127.0.0.1:42876 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:02:43 2024] 127.0.0.1:42876 Closing
+[Mon Dec 16 04:02:43 2024] 127.0.0.1:42884 Accepted
+[Mon Dec 16 04:02:44 2024] 127.0.0.1:42884 [200]: POST /receiver.php
+[Mon Dec 16 04:02:44 2024] 127.0.0.1:42884 Closing
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42888 Accepted
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42888 [200]: GET /images/cam16Dec2024120243.png
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42898 Accepted
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42888 Closing
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42898 [200]: POST /receiver.php
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42898 Closing
+[Mon Dec 16 04:02:46 2024] 127.0.0.1:42906 Accepted
+[Mon Dec 16 04:02:48 2024] 127.0.0.1:42906 [200]: POST /receiver.php
+[Mon Dec 16 04:02:48 2024] 127.0.0.1:42906 Closing
+[Mon Dec 16 04:02:50 2024] 127.0.0.1:53816 Accepted
+[Mon Dec 16 04:02:50 2024] 127.0.0.1:53816 [200]: POST /receiver.php
+[Mon Dec 16 04:02:50 2024] 127.0.0.1:53816 Closing
+[Mon Dec 16 04:02:50 2024] 127.0.0.1:53822 Accepted
+[Mon Dec 16 04:02:51 2024] 127.0.0.1:53822 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:02:51 2024] 127.0.0.1:53822 Closing
+[Mon Dec 16 04:02:52 2024] 127.0.0.1:53830 Accepted
+[Mon Dec 16 04:02:52 2024] 127.0.0.1:53830 [200]: POST /receiver.php
+[Mon Dec 16 04:02:52 2024] 127.0.0.1:53830 Closing
+[Mon Dec 16 04:02:52 2024] 127.0.0.1:53844 Accepted
+[Mon Dec 16 04:02:54 2024] 127.0.0.1:53844 [200]: POST /receiver.php
+[Mon Dec 16 04:02:54 2024] 127.0.0.1:53844 Closing
+[Mon Dec 16 04:02:56 2024] 127.0.0.1:53852 Accepted
+[Mon Dec 16 04:02:56 2024] 127.0.0.1:53852 [200]: POST /receiver.php
+[Mon Dec 16 04:02:56 2024] 127.0.0.1:53852 Closing
+[Mon Dec 16 04:02:56 2024] 127.0.0.1:53864 Accepted
+[Mon Dec 16 04:02:58 2024] 127.0.0.1:53864 [200]: POST /receiver.php
+[Mon Dec 16 04:02:58 2024] 127.0.0.1:53864 Closing
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34294 Accepted
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34294 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34294 Closing
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34302 Accepted
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34302 [200]: POST /receiver.php
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34302 Closing
+[Mon Dec 16 04:03:00 2024] 127.0.0.1:34312 Accepted
+[Mon Dec 16 04:03:02 2024] 127.0.0.1:34312 [200]: POST /receiver.php
+[Mon Dec 16 04:03:02 2024] 127.0.0.1:34312 Closing
+[Mon Dec 16 04:03:04 2024] 127.0.0.1:34326 Accepted
+[Mon Dec 16 04:03:04 2024] 127.0.0.1:34326 [200]: POST /receiver.php
+[Mon Dec 16 04:03:04 2024] 127.0.0.1:34326 Closing
+[Mon Dec 16 04:03:04 2024] 127.0.0.1:34334 Accepted
+[Mon Dec 16 04:03:06 2024] 127.0.0.1:34334 [200]: POST /receiver.php
+[Mon Dec 16 04:03:06 2024] 127.0.0.1:34334 Closing
+[Mon Dec 16 04:03:08 2024] 127.0.0.1:51930 Accepted
+[Mon Dec 16 04:03:08 2024] 127.0.0.1:51930 [200]: POST /receiver.php
+[Mon Dec 16 04:03:08 2024] 127.0.0.1:51930 Closing
+[Mon Dec 16 04:03:08 2024] 127.0.0.1:51932 Accepted
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51932 [200]: POST /receiver.php
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51932 Closing
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51942 Accepted
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51942 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51942 Closing
+[Mon Dec 16 04:03:10 2024] 127.0.0.1:51958 Accepted
+[Mon Dec 16 04:03:12 2024] 127.0.0.1:51958 [200]: POST /receiver.php
+[Mon Dec 16 04:03:12 2024] 127.0.0.1:51958 Closing
+[Mon Dec 16 04:03:14 2024] 127.0.0.1:51970 Accepted
+[Mon Dec 16 04:03:14 2024] 127.0.0.1:51970 [200]: POST /receiver.php
+[Mon Dec 16 04:03:14 2024] 127.0.0.1:51970 Closing
+[Mon Dec 16 04:03:14 2024] 127.0.0.1:51976 Accepted
+[Mon Dec 16 04:03:16 2024] 127.0.0.1:51976 [200]: POST /receiver.php
+[Mon Dec 16 04:03:16 2024] 127.0.0.1:51976 Closing
+[Mon Dec 16 04:03:18 2024] 127.0.0.1:45706 Accepted
+[Mon Dec 16 04:03:18 2024] 127.0.0.1:45706 [200]: POST /receiver.php
+[Mon Dec 16 04:03:18 2024] 127.0.0.1:45706 Closing
+[Mon Dec 16 04:03:18 2024] 127.0.0.1:45718 Accepted
+[Mon Dec 16 04:03:19 2024] 127.0.0.1:45718 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:19 2024] 127.0.0.1:45718 Closing
+[Mon Dec 16 04:03:20 2024] 127.0.0.1:45722 Accepted
+[Mon Dec 16 04:03:20 2024] 127.0.0.1:45722 [200]: POST /receiver.php
+[Mon Dec 16 04:03:20 2024] 127.0.0.1:45722 Closing
+[Mon Dec 16 04:03:20 2024] 127.0.0.1:45728 Accepted
+[Mon Dec 16 04:03:22 2024] 127.0.0.1:45728 [200]: POST /receiver.php
+[Mon Dec 16 04:03:22 2024] 127.0.0.1:45728 Closing
+[Mon Dec 16 04:03:24 2024] 127.0.0.1:45742 Accepted
+[Mon Dec 16 04:03:24 2024] 127.0.0.1:45742 [200]: POST /receiver.php
+[Mon Dec 16 04:03:24 2024] 127.0.0.1:45742 Closing
+[Mon Dec 16 04:03:24 2024] 127.0.0.1:45750 Accepted
+[Mon Dec 16 04:03:26 2024] 127.0.0.1:45750 [200]: POST /receiver.php
+[Mon Dec 16 04:03:26 2024] 127.0.0.1:45750 Closing
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39268 Accepted
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39268 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39268 Closing
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39274 Accepted
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39274 [200]: POST /receiver.php
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39274 Closing
+[Mon Dec 16 04:03:28 2024] 127.0.0.1:39284 Accepted
+[Mon Dec 16 04:03:30 2024] 127.0.0.1:39284 [200]: POST /receiver.php
+[Mon Dec 16 04:03:30 2024] 127.0.0.1:39284 Closing
+[Mon Dec 16 04:03:32 2024] 127.0.0.1:39288 Accepted
+[Mon Dec 16 04:03:32 2024] 127.0.0.1:39288 [200]: POST /receiver.php
+[Mon Dec 16 04:03:32 2024] 127.0.0.1:39288 Closing
+[Mon Dec 16 04:03:32 2024] 127.0.0.1:39290 Accepted
+[Mon Dec 16 04:03:34 2024] 127.0.0.1:39290 [200]: POST /receiver.php
+[Mon Dec 16 04:03:34 2024] 127.0.0.1:39290 Closing
+[Mon Dec 16 04:03:36 2024] 127.0.0.1:39306 Accepted
+[Mon Dec 16 04:03:36 2024] 127.0.0.1:39306 [200]: POST /receiver.php
+[Mon Dec 16 04:03:36 2024] 127.0.0.1:39306 Closing
+[Mon Dec 16 04:03:36 2024] 127.0.0.1:39314 Accepted
+[Mon Dec 16 04:03:37 2024] 127.0.0.1:39314 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:37 2024] 127.0.0.1:39314 Closing
+[Mon Dec 16 04:03:38 2024] 127.0.0.1:51910 Accepted
+[Mon Dec 16 04:03:38 2024] 127.0.0.1:51910 [200]: POST /receiver.php
+[Mon Dec 16 04:03:38 2024] 127.0.0.1:51910 Closing
+[Mon Dec 16 04:03:38 2024] 127.0.0.1:51914 Accepted
+[Mon Dec 16 04:03:40 2024] 127.0.0.1:51914 [200]: POST /receiver.php
+[Mon Dec 16 04:03:40 2024] 127.0.0.1:51914 Closing
+[Mon Dec 16 04:03:42 2024] 127.0.0.1:51924 Accepted
+[Mon Dec 16 04:03:42 2024] 127.0.0.1:51924 [200]: POST /receiver.php
+[Mon Dec 16 04:03:42 2024] 127.0.0.1:51924 Closing
+[Mon Dec 16 04:03:42 2024] 127.0.0.1:51928 Accepted
+[Mon Dec 16 04:03:44 2024] 127.0.0.1:51928 [200]: POST /receiver.php
+[Mon Dec 16 04:03:44 2024] 127.0.0.1:51928 Closing
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51940 Accepted
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51952 Accepted
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51952 [200]: POST /receiver.php
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51952 Closing
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51940 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51940 Closing
+[Mon Dec 16 04:03:46 2024] 127.0.0.1:51966 Accepted
+[Mon Dec 16 04:03:48 2024] 127.0.0.1:51966 [200]: POST /receiver.php
+[Mon Dec 16 04:03:48 2024] 127.0.0.1:51966 Closing
+[Mon Dec 16 04:03:50 2024] 127.0.0.1:36644 Accepted
+[Mon Dec 16 04:03:50 2024] 127.0.0.1:36644 [200]: POST /receiver.php
+[Mon Dec 16 04:03:50 2024] 127.0.0.1:36644 Closing
+[Mon Dec 16 04:03:50 2024] 127.0.0.1:36646 Accepted
+[Mon Dec 16 04:03:52 2024] 127.0.0.1:36646 [200]: POST /receiver.php
+[Mon Dec 16 04:03:52 2024] 127.0.0.1:36646 Closing
+[Mon Dec 16 04:03:54 2024] 127.0.0.1:36648 Accepted
+[Mon Dec 16 04:03:54 2024] 127.0.0.1:36648 [200]: POST /templates/camera_temp/post.php
+[Mon Dec 16 04:03:54 2024] 127.0.0.1:36648 Closing
+[Mon Dec 16 04:03:55 2024] 127.0.0.1:36664 Accepted
