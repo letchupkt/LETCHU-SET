@@ -90,7 +90,7 @@ pkg install git
 pkg install python
 pkg install openssl
 
-git clone https://github.com/gamkers/LETCHU-SET-KIT.git
+git clone https://github.com/letchupkt/LETCHU-SET-KIT.git
 cd LETCHU-SET-KIT
 bash install.sh
 python3 -m pip install -r requirements.txt
