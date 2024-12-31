@@ -44,7 +44,7 @@
 - You can start and stop the listener anytime ! (At will)
 - Beautified user interface (NEW) !
 
-> We have deleted Ngrok in the new version of GAMKERSET and entrusted the user with running and sharing the localhost . So please note that GAMKERSET runs a localhost for you and you have to start the Ngrok on your intended port yourself .
+> We have deleted Ngrok in the new version of LETCHU-SET and entrusted the user with running and sharing the localhost . So please note that LETCHU-SET runs a localhost for you and you have to start the Ngrok on your intended port yourself .
 > <br>
 
 #### Attention! :
@@ -90,8 +90,8 @@ pkg install git
 pkg install python
 pkg install openssl
 
-git clone https://github.com/gamkers/GAMKERSET-KIT.git
-cd GAMKERSET-KIT
+git clone https://github.com/gamkers/LETCHU-SET-KIT.git
+cd LETCHU-SET-KIT
 bash install.sh
 python3 -m pip install -r requirements.txt
 python3 st.py
