@@ -33,7 +33,7 @@
 
 ### Update Log:
 
-- Second (latest) Update on November 4th , 2022 .
+
 - The overall structure of the tool is programmed from the beginning and is available as a web panel (in previous versions, the tool was available in the command line).
 - Previous version's bugs fixed !
 - Auto-download Ngrok Added !
